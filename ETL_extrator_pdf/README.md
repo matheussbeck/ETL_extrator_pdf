@@ -58,13 +58,6 @@ O projeto requer as seguintes variáveis de ambiente para configurar o acesso ao
 
 Na pasta src/files/, crie uma subpasta correspondente ao tipo de arquivo que você deseja processar. Em seguida, adicione as regras de extração de dados no arquivo src/configs/rules/notas.py. Caso precise de apoio visual para criar as regras, utilize o arquivo pdf_viz.py para obter uma referência visual da área de extração do arquivo. Após configurar as regras, faça as alterações necessárias no arquivo start.py. Com essas etapas concluídas, o sistema extrairá automaticamente todos os dados dos arquivos na pasta e os salvará no banco de dados
 
-## Contribuição
-
-Se você deseja contribuir para este projeto, por favor, faça um fork do repositório, crie uma branch para suas alterações e envie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 ```
 
 Substitua `<URL do repositório>`, `<nome do repositório>` e `<nome_do_seu_script>.py` com as informações específicas do seu projeto. Ajuste a seção "Uso" conforme as funcionalidades do seu projeto.
